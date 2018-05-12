@@ -1,0 +1,29 @@
+_repo: Insomnia--and-Other-Disorders-of-Sleep_43415
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43415-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lyman, Henry M. (Henry Munson)
+    alias: Lyman, Henry Munson
+    birthdate: 1835
+    deathdate: 1904
+    gutenberg_agent_id: '42194'
+    url: http://www.gutenberg.org/2009/agents/42194
+description: ''
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams'
+- !lcsh 'Sleepwalking'
+- !lcc 'RC'
+- !lcsh 'Insomnia'
+title: Insomnia; and Other Disorders of Sleep
+url: http://www.gutenberg.org/ebooks/43415
