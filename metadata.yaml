@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42194'
     url: http://www.gutenberg.org/2009/agents/42194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43415#Insomnia--and-Other-Disorders-of-Sleep
 gutenberg_issued: '2013-08-07'
 gutenberg_type: Text
 identifiers:
